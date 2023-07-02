@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-management-caf25": {
+      "hosting": {
+        "firebase-angular-crud": [
+          "student-management-caf25"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-management-caf25"
+  }
+}
